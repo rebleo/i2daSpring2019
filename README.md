@@ -59,45 +59,41 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * The 12 Principles of Animation
 * Screening: Persistence of Vision: Intro to Sequential Image Making
 
----
+
 ###### [Week 2](https://github.com/rebleo/i2daSpring2019/wiki/Week-02): Intro to Photoshop
 * Pixelation Screening
 * Making Gifs in Photoshop
 
----
+
 ###### [Week 3](https://github.com/rebleo/i2daSpring2019/wiki/Week-03): Project 1 Critique
 
----
+
 ###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Intro to Stop Motion
----
+
 ###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Stop Motion Studio
 
----
+
 ###### Week 6:
 
----
 ###### Week 7:
----
+
 ###### Week 8:
----
+
 ###### Week 9:
----
+
 ###### Week 10:
----
+
 ###### Week 11:
 
----
 ###### Week 12:
 
----
-###### Week 13:
+###### Week 13: Final Project Studio
+
+###### Week 14: Final Project Studio
+
+###### Week 15: Final Projects Due + Critique
 
 ---
-###### Week 14:
-Final Project Studio
----
-###### Week 15 :
-FINAL PROJECTS DUE + CRITIQUE
 
 #### Grading:
 ##### Attendance:
