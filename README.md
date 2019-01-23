@@ -54,65 +54,69 @@ To turn in your homework you must link to it every week on the class wiki. Where
 
 
 #### Course Outline (this is subject to change):
-##### [Week 1](): Intro to Animation History
+##### [Week 1](https://github.com/rebleo/i2daSpring2019/wiki/Week-01): Intro to Animation History
 * Intro to course
 * The 12 Principles of Animation
 * Screening: Persistence of Vision: Intro to Sequential Image Making
 
 ---
-###### Week 2: Intro to Photoshop
+###### [Week 2](https://github.com/rebleo/i2daSpring2019/wiki/Week-02): Intro to Photoshop
 * Pixelation Screening
 * Making Gifs in Photoshop
 
 ---
-###### Week 3 :
+###### [Week 3](https://github.com/rebleo/i2daSpring2019/wiki/Week-03): Project 1 Critique
 
 ---
-###### Week 4 :
+###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Intro to Stop Motion
 ---
-###### Week 5 :
+###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Stop Motion Studio
 
 ---
-###### Week 6 :
+###### Week 6:
 
 ---
-###### Week 7 :
+###### Week 7:
 ---
-###### Week 8 :
+###### Week 8:
 ---
-###### Week 9 :
+###### Week 9:
 ---
-###### Week 10 :
+###### Week 10:
 ---
-###### Week 11 :
-*
+###### Week 11:
 
 ---
-###### Week 12 :
-*
----
-###### Week 13 :
+###### Week 12:
 
 ---
-###### Week 14 :
-* Final Project Studio
+###### Week 13:
+
+---
+###### Week 14:
+Final Project Studio
 ---
 ###### Week 15 :
-* FINAL PROJECTS DUE + CRITIQUE
+FINAL PROJECTS DUE + CRITIQUE
 
 #### Grading:
 ##### Attendance:
 Two (unexcused) absences result in grade drop and four absences result in a failing grade. Late or early departure from class (15 minutes) is the equivalent of ½ absence.
 
-To earn an A All class work and homework is excellent. Projects have been completed when assigned. The work shows a development and understanding of the principles discussed in class. It is presented immaculately. There is regular and prompt attendance and participation during critiques and an enthusiasm toward the material being presented throughout the semester. This is exceptional work.
+##### To earn an A 
+All class work and homework is excellent. Projects have been completed when assigned. The work shows a development and understanding of the principles discussed in class. It is presented immaculately. There is regular and prompt attendance and participation during critiques and an enthusiasm toward the material being presented throughout the semester. This is exceptional work.
 
-To earn a B All assigned work completed in a thorough manner. An understanding of the principles and lessons covered in class is evident. The student comes to class regularly and on time and participates in critiques and discussions. This is better than average work.
+##### To earn a B
+ All assigned work completed in a thorough manner. An understanding of the principles and lessons covered in class is evident. The student comes to class regularly and on time and participates in critiques and discussions. This is better than average work.
 
-To earn a C Most class assignments and homework have been completed. Regular attendance but minimal or negative class participation. There is understanding of most of what’s being presented in class. This student shows some interest in the course content. This is average work.
+##### To earn a C
+ Most class assignments and homework have been completed. Regular attendance but minimal or negative class participation. There is understanding of most of what’s being presented in class. This student shows some interest in the course content. This is average work.
 
-To earn a D Most class assignments and homework have not been completed. Marginal effort made to understand the course objectives and very little or negative participation on behalf of the student. Spotty attendance. This means below average work.
+##### To earn a D 
+Most class assignments and homework have not been completed. Marginal effort made to understand the course objectives and very little or negative participation on behalf of the student. Spotty attendance. This means below average work.
 
-To earn an F Student has not completed 1⁄3 of the course work and has missed too many classes. This student doesn’t participate or has a bad attitude and shows no interest. It means not enough work, attendance, and/or effort to pass the class.
+##### To earn an F
+ Student has not completed 1⁄3 of the course work and has missed too many classes. This student doesn’t participate or has a bad attitude and shows no interest. It means not enough work, attendance, and/or effort to pass the class.
 
 * Participation 			20%
 * Regular Assignments		15%
