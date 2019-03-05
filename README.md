@@ -65,21 +65,24 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * Making Gifs in Photoshop
 
 
-###### [Week 3](https://github.com/rebleo/i2daSpring2019/wiki/Week-03): Project 1 Critique
+###### [Week 3](https://github.com/rebleo/i2daSpring2019/wiki/Week-03): Loops
+* Screening: Loops + Gifs
 
-
-###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Intro to Stop Motion
+###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Project 1 Crit
+* Screening: Intro to Stop Motion
 
 ###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Stop Motion Studio
+* The 12 Principles Presentation: Squash + Stretch and Anticipation 
+* Storyboards
+* Intro to Adobe Premiere
 
+###### [Week 6](https://github.com/rebleo/i2daSpring2019/wiki/Week-06): Stop Motion Studio
 
-###### Week 6:
+###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07):
 
-###### Week 7:
+###### [Week 8]:
 
-###### Week 8:
-
-###### Week 9:
+###### [Week 9]:
 
 ###### Week 10:
 
