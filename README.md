@@ -78,13 +78,14 @@ To turn in your homework you must link to it every week on the class wiki. Where
 
 ###### [Week 6](https://github.com/rebleo/i2daSpring2019/wiki/Week-06): Stop Motion Studio
 
-###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07):
+###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07): Project 2 Due
+* Stop Motion Critique
 
-###### [Week 8]:
+###### [Week 8](https://github.com/rebleo/i2daSpring2019/wiki/Week-08):
 
-###### [Week 9]:
+###### [Week 9](https://github.com/rebleo/i2daSpring2019/wiki/Week-09):
 
-###### Week 10:
+###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10):
 
 ###### Week 11:
 
