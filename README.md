@@ -71,21 +71,25 @@ To turn in your homework you must link to it every week on the class wiki. Where
 ###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Project 1 Crit
 * Screening: Intro to Stop Motion
 
-###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Stop Motion Studio
+###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): * Intro to Adobe Premiere
 * The 12 Principles Presentation: Squash + Stretch and Anticipation 
 * Storyboards
-* Intro to Adobe Premiere
 
 ###### [Week 6](https://github.com/rebleo/i2daSpring2019/wiki/Week-06): Stop Motion Studio
+* 12 Principles: Staging and Straight Ahead and Pose to Pose
 
-###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07): Project 2 Due
-* Stop Motion Critique
+###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07): Stop Motion Due + Critique
+* Screening: Shapes in Motion
+* 12 Principles 5 + 6: Follow Through + Overlapping Action and Slow in + Slow Out
 
-###### [Week 8](https://github.com/rebleo/i2daSpring2019/wiki/Week-08):
+###### [Week 8](https://github.com/rebleo/i2daSpring2019/wiki/Week-08): Intro to After Effects
+* 12 Principles 7 + 8: Arcs and Secondary Action
+* Screening: Motion Graphics
 
-###### [Week 9](https://github.com/rebleo/i2daSpring2019/wiki/Week-09):
+###### [Week 9](https://github.com/rebleo/i2daSpring2019/wiki/Week-09): 
+* Screening: Digital Collage
 
-###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10):
+###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10): 
 
 ###### Week 11:
 
