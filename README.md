@@ -47,7 +47,7 @@ Every week students will be asked to read, watch and share a variety of media ex
 #### Blog:
 Students will be asked to share images or videos as a means to turn in homework assignments. Students should set up and maintain a personal blog for this purpose. There are many free options that will offer you enough storage space for the semester. I suggest Medium but choose whatever platform you prefer.
 
-#### “Share” (or the class Wiki):
+#### [“Share” (aka the class Wiki)](https://github.com/rebleo/i2daSpring2019/wiki):
 To turn in your homework you must link to it every week on the class wiki. Wherever it 		says “share” - you are required to post on the wiki. To contribute to the wiki you must 		set up a Github account. We will do this in class on the first day.
 
 ---
@@ -71,7 +71,7 @@ To turn in your homework you must link to it every week on the class wiki. Where
 ###### [Week 4](https://github.com/rebleo/i2daSpring2019/wiki/Week-04): Project 1 Crit
 * Screening: Intro to Stop Motion
 
-###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): * Intro to Adobe Premiere
+###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Intro to Adobe Premiere
 * The 12 Principles Presentation: Squash + Stretch and Anticipation 
 * Storyboards
 
@@ -79,8 +79,8 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * 12 Principles: Staging and Straight Ahead and Pose to Pose
 
 ###### [Week 7](https://github.com/rebleo/i2daSpring2019/wiki/Week-07): Stop Motion Due + Critique
-* Screening: Shapes in Motion
 * 12 Principles 5 + 6: Follow Through + Overlapping Action and Slow in + Slow Out
+* Screening: Shapes in Motion
 
 ###### [Week 8](https://github.com/rebleo/i2daSpring2019/wiki/Week-08): Intro to After Effects
 * 12 Principles 7 + 8: Arcs and Secondary Action
