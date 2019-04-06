@@ -72,7 +72,7 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * Screening: Intro to Stop Motion
 
 ###### [Week 5](https://github.com/rebleo/i2daSpring2019/wiki/Week-05): Intro to Adobe Premiere
-* The 12 Principles Presentation: Squash + Stretch and Anticipation 
+* The 12 Principles Presentation: Squash + Stretch and Anticipation
 * Storyboards
 
 ###### [Week 6](https://github.com/rebleo/i2daSpring2019/wiki/Week-06): Stop Motion Studio
@@ -86,14 +86,18 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * 12 Principles 7 + 8: Arcs and Secondary Action
 * Screening: Motion Graphics
 
-###### [Week 9](https://github.com/rebleo/i2daSpring2019/wiki/Week-09): 
+###### [Week 9](https://github.com/rebleo/i2daSpring2019/wiki/Week-09): AE
+* 12 Principles 9 + 10: Timing and Exaggeration
 * Screening: Digital Collage
 
-###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10): 
+###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10): Project 3 Studio
+* 12 Principles 11 + 12: Solid Drawing + Appeal
+* Screening: Compositing, Making + Rotoscoping
+* Demo: Compositing, Masking + Rotoscoping
 
-###### Week 11:
+###### [Week 11](https://github.com/rebleo/i2daSpring2019/wiki/Week-11):
 
-###### Week 12:
+###### [Week 12](https://github.com/rebleo/i2daSpring2019/wiki/Week-12):
 
 ###### Week 13: Final Project Studio
 
