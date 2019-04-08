@@ -90,14 +90,14 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * 12 Principles 9 + 10: Timing and Exaggeration
 * Screening: Digital Collage
 
-###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10): Project 3 Studio
+###### [Week 10](https://github.com/rebleo/i2daSpring2019/wiki/Week-10): AE - Compositing, Making + Rotoscoping
 * 12 Principles 11 + 12: Solid Drawing + Appeal
 * Screening: Compositing, Making + Rotoscoping
-* Demo: Compositing, Masking + Rotoscoping
 
-###### [Week 11](https://github.com/rebleo/i2daSpring2019/wiki/Week-11):
+###### [Week 11](https://github.com/rebleo/i2daSpring2019/wiki/Week-11): Project 3 Studio
 
-###### [Week 12](https://github.com/rebleo/i2daSpring2019/wiki/Week-12):
+###### [Week 12](https://github.com/rebleo/i2daSpring2019/wiki/Week-12): Project 3 Critique
+* Animatics
 
 ###### Week 13: Final Project Studio
 
